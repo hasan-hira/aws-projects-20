@@ -1,6 +1,6 @@
 # AWS Projects
 
-List of projects within AWS workshop as follows; 
+List of projects within AWS-workshop as follows; 
 
 1. - [Project-101 : Kittens Carousel Static Website deployed on AWS EC2 using Cloudformation](./Project-101-kittens-carousel-static-website-ec2/README.md)
  
